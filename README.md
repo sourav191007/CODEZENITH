@@ -30,20 +30,6 @@ Weather-App/
 │── README.md
 ```
 
-## ⚙️ How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   ```
-
-2. Open the project folder.
-
-3. Open `index.html` in your browser.
-
-> If you're using an API key, replace the placeholder API key in `script.js` with your own key.
-
 
 ## 💡 Future Improvements
 
