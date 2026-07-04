@@ -44,16 +44,6 @@ Weather-App/
 
 > If you're using an API key, replace the placeholder API key in `script.js` with your own key.
 
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```
-images/home.png
-images/result.png
-```
 
 ## 💡 Future Improvements
 
